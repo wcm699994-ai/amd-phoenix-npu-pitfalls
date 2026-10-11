@@ -8,7 +8,7 @@
 
 ## 一、背景与结论
 
-**机器:** 七彩虹 TX Gaming FA608UM,AMD Ryzen 7040 平台(Phoenix),NPU = XDNA1 "NPU Phoenix"(PCI `1022:1502`,10~16 TOPS),另含 RTX 5060 Laptop 与 Radeon 780M。
+**机器:**  TX Gaming FA608UM,AMD Ryzen 7040 平台(Phoenix),NPU = XDNA1 "NPU Phoenix"(PCI `1022:1502`,10~16 TOPS),另含 RTX 5060 Laptop 与 Radeon 780M。
 
 **目标:** 用 NPU 跑实时语音识别(Whisper)+ 离线翻译(opus-mt)。
 
